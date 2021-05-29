@@ -71,6 +71,7 @@
   cursor: pointer;
   color: white;
   padding: 12px;
+  margin : 5px;
   border-radius: 8px;
   display: inline-block;
 }
